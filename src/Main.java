@@ -5,7 +5,7 @@ public class Main {
         double weight = 60; // масса тела в кг
         double height = 1.68; // рост в м
 
-        double ihdex = service.calculate(weight , height);
+        double ihdex = service.calculate(weight, height);
 
         System.out.println("Масса тела в кг. = 60");
         System.out.println("Рост в м.  1.68");
